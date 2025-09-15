@@ -1,0 +1,5 @@
+# .modalignore
+
+.venv/
+__pycache__/
+*.pyc

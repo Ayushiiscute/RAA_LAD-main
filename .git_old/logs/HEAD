@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 f37ea52fc243890749d48025a688d5ed6d064b01 Ayushiiscute <kapur.ayushi1511@gmail.com> 1757937380 +0530	commit (initial): Initial commit of my project
+f37ea52fc243890749d48025a688d5ed6d064b01 0f8df21fd3fbe469b0ca7059567e069e347ae3fb Ayushiiscute <kapur.ayushi1511@gmail.com> 1757937733 +0530	commit (merge): Initial commit of RAA_LAD project
+0f8df21fd3fbe469b0ca7059567e069e347ae3fb 0000000000000000000000000000000000000000 Ayushiiscute <kapur.ayushi1511@gmail.com> 1757937739 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 0f8df21fd3fbe469b0ca7059567e069e347ae3fb Ayushiiscute <kapur.ayushi1511@gmail.com> 1757937739 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0f8df21fd3fbe469b0ca7059567e069e347ae3fb 3cb74465420e45cd0af89c351d4ea3b3ee91db0b Ayushiiscute <kapur.ayushi1511@gmail.com> 1757937840 +0530	commit: Add best_model.pth via Git LFS
+3cb74465420e45cd0af89c351d4ea3b3ee91db0b 02400b35a0b2280ba3e63359cae2dd8d0e666591 Ayushiiscute <kapur.ayushi1511@gmail.com> 1757937941 +0530	commit: Remove large model file from Git tracking
+02400b35a0b2280ba3e63359cae2dd8d0e666591 ab043ae16c2c0524b1cc60f0f8bb1ed11572f18d Ayushiiscute <kapur.ayushi1511@gmail.com> 1757938019 +0530	commit: Remove model file from Git tracking

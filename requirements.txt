@@ -1,0 +1,20 @@
+# requirements.txt
+
+# PyTorch with CUDA 12.1
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.3.1
+torchvision==0.18.1
+torchaudio==2.3.1
+dotenv
+streamlit
+requests
+# Other ML and data libraries
+transformers==4.43.4
+accelerate
+scikit-learn
+pandas
+pyarrow
+matplotlib
+seaborn
+huggingface_hub
+hf-transfer

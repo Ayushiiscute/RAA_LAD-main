@@ -1,0 +1,17 @@
+{
+    "model_config":  {
+                         "dropout":  0.3,
+                         "hidden_size":  256,
+                         "max_length":  256
+                     },
+    "evt":  {
+                "threshold":  0.9,
+                "base_threshold":  0.999971330165863,
+                "shape":  0.5,
+                "scale":  1.4930103134247474E-05,
+                "confidence_level":  0.95,
+                "n_excesses":  60
+            },
+    "max_len":  256,
+    "training_completed":  true
+}

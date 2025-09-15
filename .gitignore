@@ -1,0 +1,32 @@
+# Ignore Python virtual environments and cache
+.venv/
+ __pycache__/
+*.pyc
+
+# Ignore large datasets and artifacts
+Loghub-master/
+synthetic_logs/
+artifacts_combined_balanced/
+
+# --- ADD THESE LINES ---
+# Ignore the original models and output directories
+models/
+output/
+# --- END OF ADDED LINES ---
+
+# Ignore databases, caches, and output files
+*.db
+*.sqlite
+*.bak
+windows_results.json
+
+# Ignore OS and IDE specific files
+.DS_Store
+.idea/
+.vscode/
+
+# Ignore sensitive environment variables
+.env
+
+
+*.pth
